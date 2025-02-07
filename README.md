@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather Dashboard
 
 ## Description
@@ -46,3 +47,6 @@ A weather dashboard application that retrieves weather data using the OpenWeathe
 
   ## License
   This project is licensed under the MIT License.
+=======
+# weather-dashboard
+>>>>>>> c0ddc7d0a5817f2b35b55c0d518ee6d9677854ec
